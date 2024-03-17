@@ -5,7 +5,7 @@
   box-sizing: border-box;
 }
 body{
-  background:url('./bg1.jpg');
+  background: #001e4d;
 }
 .app{
   background: #fff;
